@@ -1,0 +1,70 @@
+[02Sep2025 18:02:58.801] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forge_server, nogui]
+[02Sep2025 18:02:58.803] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: JVM identified as Ubuntu OpenJDK 64-Bit Server VM 21.0.8+9-Ubuntu-0ubuntu124.04.1
+[02Sep2025 18:02:58.804] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.2.1 starting: java version 21.0.8 by Ubuntu; OS Linux arch amd64 version 6.8.0-1030-azure
+[02Sep2025 18:02:58.892] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forge_server
+[02Sep2025 18:02:59.001] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=jar:file:///workspaces/uNsErvermUysAno/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.7/mixin-0.8.7.jar!/ Service=ModLauncher Env=SERVER
+[02Sep2025 18:02:59.192] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: No dependencies to load found. Skipping!
+[02Sep2025 18:03:00.002] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forge_server' with arguments [nogui]
+[02Sep2025 18:03:00.331] [main/WARN] [oshi.util.FileUtil/]: Configuration conflict: there is more than one oshi.properties file on the classpath: [jar:file:///workspaces/uNsErvermUysAno/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties, jar:file:/workspaces/uNsErvermUysAno/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties, jar:file:///workspaces/uNsErvermUysAno/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties, jar:file:/workspaces/uNsErvermUysAno/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties]
+[02Sep2025 18:03:00.468] [main/WARN] [oshi.util.FileUtil/]: Configuration conflict: there is more than one oshi.architecture.properties file on the classpath: [jar:file:///workspaces/uNsErvermUysAno/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties, jar:file:/workspaces/uNsErvermUysAno/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties, jar:file:///workspaces/uNsErvermUysAno/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties, jar:file:/workspaces/uNsErvermUysAno/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties]
+[02Sep2025 18:03:05.626] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 52.0.9, for MC 1.21.1 with MCP 20240808.132146
+[02Sep2025 18:03:05.630] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v52.0.9 Initialized
+[02Sep2025 18:03:05.640] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Opening jdk.naming.dns/com.sun.jndi.dns to java.naming
+[02Sep2025 18:03:06.293] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[02Sep2025 18:03:07.027] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 52.0.9 Target: 52.1.0
+[02Sep2025 18:03:07.159] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[02Sep2025 18:03:09.217] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 1290 recipes
+[02Sep2025 18:03:09.478] [main/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 1399 advancements
+[02Sep2025 18:03:10.042] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.21.1
+[02Sep2025 18:03:10.046] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[02Sep2025 18:03:10.046] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[02Sep2025 18:03:10.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[02Sep2025 18:03:10.208] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[02Sep2025 18:03:10.245] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[02Sep2025 18:03:10.293] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[02Sep2025 18:03:10.293] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[02Sep2025 18:03:10.294] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[02Sep2025 18:03:10.294] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[02Sep2025 18:03:10.349] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[02Sep2025 18:03:13.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[02Sep2025 18:03:13.598] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Sep2025 18:03:13.659] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 12%
+[02Sep2025 18:03:13.733] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 574 ms
+[02Sep2025 18:03:13.734] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (3.430s)! For help, type "help"
+[02Sep2025 18:03:13.746] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[02Sep2025 18:03:47.481] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: CesarDios[/192.168.193.133:65112] logged in with entity id 5 at (-1.5, 108.0, 5.5)
+[02Sep2025 18:03:47.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CesarDios joined the game
+[02Sep2025 18:04:21.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CesarDios fell from a high place
+[02Sep2025 18:04:31.971] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ludcario[/192.168.193.26:54594] logged in with entity id 563 at (-7.5, 108.0, -8.5)
+[02Sep2025 18:04:31.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ludcario joined the game
+[02Sep2025 18:06:04.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CesarDios fell from a high place
+[02Sep2025 18:06:51.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CesarDios fell from a high place
+[02Sep2025 18:09:00.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CesarDios fell from a high place
+[02Sep2025 18:09:42.804] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ludcario lost connection: Disconnected
+[02Sep2025 18:09:42.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ludcario left the game
+[02Sep2025 18:09:49.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[02Sep2025 18:09:49.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[02Sep2025 18:09:49.403] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CesarDios lost connection: Server closed
+[02Sep2025 18:09:49.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CesarDios left the game
+[02Sep2025 18:09:49.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[02Sep2025 18:09:49.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[02Sep2025 18:09:49.838] [Server console handler/ERROR] [net.minecraft.server.dedicated.DedicatedServer/]: Caught previously unhandled exception :
+com.sun.jna.LastErrorException: [5] Input/output error
+	at SECURE-BOOTSTRAP/com.sun.jna@5.14.0/com.sun.jna.Native.invokeVoid(Native Method) ~[jna-5.14.0.jar!/:5.14.0 (b0)]
+	at SECURE-BOOTSTRAP/com.sun.jna@5.14.0/com.sun.jna.Function.invoke(Function.java:418) ~[jna-5.14.0.jar!/:5.14.0 (b0)]
+	at SECURE-BOOTSTRAP/com.sun.jna@5.14.0/com.sun.jna.Function.invoke(Function.java:364) ~[jna-5.14.0.jar!/:5.14.0 (b0)]
+	at SECURE-BOOTSTRAP/com.sun.jna@5.14.0/com.sun.jna.Library$Handler.invoke(Library.java:270) ~[jna-5.14.0.jar!/:5.14.0 (b0)]
+	at SECURE-BOOTSTRAP/jdk.proxy2/jdk.proxy2.$Proxy17.tcgetattr(Unknown Source) ~[?:?]
+	at SECURE-BOOTSTRAP/jline.terminal.jna@3.12.1/org.jline.terminal.impl.jna.linux.LinuxNativePty.doSetAttr(LinuxNativePty.java:84) ~[jline-terminal-jna-3.12.1.jar!/:?]
+	at SECURE-BOOTSTRAP/jline.terminal@3.12.1/org.jline.terminal.impl.AbstractPty.setAttr(AbstractPty.java:29) ~[jline-terminal-3.12.1.jar!/:?]
+	at SECURE-BOOTSTRAP/jline.terminal@3.12.1/org.jline.terminal.impl.AbstractPosixTerminal.setAttributes(AbstractPosixTerminal.java:52) ~[jline-terminal-3.12.1.jar!/:?]
+	at SECURE-BOOTSTRAP/jline.reader@3.12.1/org.jline.reader.impl.LineReaderImpl.readLine(LineReaderImpl.java:650) ~[jline-reader-3.12.1.jar!/:?]
+	at SECURE-BOOTSTRAP/jline.reader@3.12.1/org.jline.reader.impl.LineReaderImpl.readLine(LineReaderImpl.java:418) ~[jline-reader-3.12.1.jar!/:?]
+	at TRANSFORMER/forge@52.0.9/net.minecraftforge.server.console.TerminalHandler.handleCommands(TerminalHandler.java:46) ~[forge-1.21.1-52.0.9-universal.jar!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.dedicated.DedicatedServer$1.run(DedicatedServer.java:108) ~[forge-1.21.1-52.0.9-server.jar!/:?]
+[02Sep2025 18:09:50.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[02Sep2025 18:09:50.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[02Sep2025 18:09:50.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[02Sep2025 18:09:50.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[02Sep2025 18:09:50.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[02Sep2025 18:09:50.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
