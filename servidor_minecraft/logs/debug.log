@@ -10455,3 +10455,7 @@ com.google.gson.JsonSyntaxException: Empty ingredient not allowed here
 [02Sep2025 23:38:44.685] [Netty Epoll Server IO #2/ERROR] [net.minecraftforge.network.simple.IndexedMessageCodec/SIMPLENET]: Received empty payload on channel fml:handshake
 [02Sep2025 23:38:44.685] [Netty Epoll Server IO #2/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@57cae6ef[id=<null>,name=ludcario,properties={},legacy=false] (/192.168.193.26:50046): Unexpected custom data from client
 [02Sep2025 23:38:44.691] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@57cae6ef[id=<null>,name=ludcario,properties={},legacy=false] (/192.168.193.26:50046) lost connection: Unexpected custom data from client
+[02Sep2025 23:42:12.760] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Sep2025 23:42:12.778] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Sep2025 23:47:12.778] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Sep2025 23:47:12.801] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
