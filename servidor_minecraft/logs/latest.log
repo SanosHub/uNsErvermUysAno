@@ -842,3 +842,13 @@ com.google.gson.JsonSyntaxException: Empty ingredient not allowed here
 [02Sep2025 23:28:36.260] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
 [02Sep2025 23:28:36.261] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
 [02Sep2025 23:28:36.262] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[02Sep2025 23:33:20.799] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CesarDios lost connection: Disconnected
+[02Sep2025 23:33:20.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CesarDios left the game
+[02Sep2025 23:33:20.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CesarDios was shot by Skeleton
+[02Sep2025 23:33:20.812] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of f5c78a79-a472-350d-9399-22db7b6687d4 was unloaded
+[02Sep2025 23:38:05.228] [Netty Epoll Server IO #7/ERROR] [net.minecraftforge.network.simple.IndexedMessageCodec/SIMPLENET]: Received empty payload on channel fml:handshake
+[02Sep2025 23:38:05.228] [Netty Epoll Server IO #7/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@14caca7c[id=<null>,name=ludcario,properties={},legacy=false] (/192.168.193.26:50042): Unexpected custom data from client
+[02Sep2025 23:38:05.241] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@14caca7c[id=<null>,name=ludcario,properties={},legacy=false] (/192.168.193.26:50042) lost connection: Unexpected custom data from client
+[02Sep2025 23:38:44.685] [Netty Epoll Server IO #2/ERROR] [net.minecraftforge.network.simple.IndexedMessageCodec/SIMPLENET]: Received empty payload on channel fml:handshake
+[02Sep2025 23:38:44.685] [Netty Epoll Server IO #2/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@57cae6ef[id=<null>,name=ludcario,properties={},legacy=false] (/192.168.193.26:50046): Unexpected custom data from client
+[02Sep2025 23:38:44.691] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@57cae6ef[id=<null>,name=ludcario,properties={},legacy=false] (/192.168.193.26:50046) lost connection: Unexpected custom data from client

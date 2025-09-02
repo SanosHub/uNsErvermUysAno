@@ -10426,3 +10426,32 @@ com.google.gson.JsonSyntaxException: Empty ingredient not allowed here
 [02Sep2025 23:30:44.606] [Worker-Main-16/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:evokersummoner at BlockPos{x=-145, y=52, z=-292} at Chest with:minecraft:chests/simple_dungeon
 [02Sep2025 23:30:46.139] [Worker-Main-17/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:zombieboss at BlockPos{x=-258, y=-9, z=-53} at Chest with:minecraft:chests/simple_dungeon
 [02Sep2025 23:30:52.574] [Worker-Main-21/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:skeletonshieldboss at BlockPos{x=60, y=68, z=-310} at Chest with:minecraft:chests/desert_pyramid
+[02Sep2025 23:31:52.130] [Worker-Main-17/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:huskboss at BlockPos{x=-39, y=-13, z=-378} at Chest with:minecraft:chests/simple_dungeon
+[02Sep2025 23:32:12.804] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Sep2025 23:32:12.822] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Sep2025 23:32:36.005] [Worker-Main-17/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:vexboss at BlockPos{x=208, y=-18, z=-266} at Chest with:minecraft:chests/simple_dungeon
+[02Sep2025 23:32:53.927] [Worker-Main-21/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:evilchickenboss at BlockPos{x=279, y=4, z=-64} at Chest with:minecraft:chests/simple_dungeon
+[02Sep2025 23:33:04.599] [Worker-Main-17/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [quark] are present.
+[02Sep2025 23:33:16.403] [Worker-Main-15/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:huskboss at BlockPos{x=349, y=-11, z=-426} at Chest with:minecraft:chests/simple_dungeon
+[02Sep2025 23:33:17.766] [Worker-Main-21/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:skeletonshieldboss at BlockPos{x=207, y=-3, z=-498} at Chest with:minecraft:chests/simple_dungeon
+[02Sep2025 23:33:18.696] [Worker-Main-17/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:witchboss at BlockPos{x=90, y=-10, z=-502} at Chest with:minecraft:chests/simple_dungeon
+[02Sep2025 23:33:20.799] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CesarDios lost connection: Disconnected
+[02Sep2025 23:33:20.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CesarDios left the game
+[02Sep2025 23:33:20.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CesarDios was shot by Skeleton
+[02Sep2025 23:33:20.812] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of f5c78a79-a472-350d-9399-22db7b6687d4 was unloaded
+[02Sep2025 23:37:12.752] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Sep2025 23:37:12.770] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Sep2025 23:38:05.112] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Starting new modded impl connection. Found 38 messages to dispatch.
+[02Sep2025 23:38:05.141] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'com.tacz.guns.network.message.handshake.ServerMessageSyncedEntityDataMapping' to 'tacz:handshake' sequence 0
+[02Sep2025 23:38:05.191] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModData' to 'fml:handshake' sequence 1
+[02Sep2025 23:38:05.227] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 0
+[02Sep2025 23:38:05.228] [Netty Epoll Server IO #7/ERROR] [net.minecraftforge.network.simple.IndexedMessageCodec/SIMPLENET]: Received empty payload on channel fml:handshake
+[02Sep2025 23:38:05.228] [Netty Epoll Server IO #7/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@14caca7c[id=<null>,name=ludcario,properties={},legacy=false] (/192.168.193.26:50042): Unexpected custom data from client
+[02Sep2025 23:38:05.241] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@14caca7c[id=<null>,name=ludcario,properties={},legacy=false] (/192.168.193.26:50042) lost connection: Unexpected custom data from client
+[02Sep2025 23:38:44.546] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Starting new modded impl connection. Found 38 messages to dispatch.
+[02Sep2025 23:38:44.591] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'com.tacz.guns.network.message.handshake.ServerMessageSyncedEntityDataMapping' to 'tacz:handshake' sequence 0
+[02Sep2025 23:38:44.641] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModData' to 'fml:handshake' sequence 1
+[02Sep2025 23:38:44.685] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 0
+[02Sep2025 23:38:44.685] [Netty Epoll Server IO #2/ERROR] [net.minecraftforge.network.simple.IndexedMessageCodec/SIMPLENET]: Received empty payload on channel fml:handshake
+[02Sep2025 23:38:44.685] [Netty Epoll Server IO #2/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@57cae6ef[id=<null>,name=ludcario,properties={},legacy=false] (/192.168.193.26:50046): Unexpected custom data from client
+[02Sep2025 23:38:44.691] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@57cae6ef[id=<null>,name=ludcario,properties={},legacy=false] (/192.168.193.26:50046) lost connection: Unexpected custom data from client
